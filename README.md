@@ -1,7 +1,7 @@
 
   # Focus Enhancement Web App
 
-  This is a code bundle for Focus Enhancement Web App. The original project is available at https://www.figma.com/design/zU0agf1zv98XQQfCuiZYa9/Focus-Enhancement-Web-App.
+  This is a code bundle for Focus Enhancement Web App. The original project is available at https://zebra-safari-91246428.figma.site/
 
   ## Running the code
 
